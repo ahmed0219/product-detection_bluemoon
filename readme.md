@@ -11,8 +11,8 @@ This project implements a convolutional neural network (CNN) using TensorFlow an
      ```bash
      cd product-defect-detection
 3. Install the required Python packages using pip:
-```bash
-pip install -r requirements.txt
+   ```bash
+     pip install -r requirements.txt
 ## Usage
 
 1. Organize your training images in the 'train' directory and testing images in the 'test' directory.
