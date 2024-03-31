@@ -9,7 +9,7 @@ This project implements a convolutional neural network (CNN) using TensorFlow an
    git clone https://github.com/your_username/product-defect-detection.git
 2. Navigate to the project directory:
      ```bash
-cd product-defect-detection
+     cd product-defect-detection
 3. Install the required Python packages using pip:
 ```bash
 pip install -r requirements.txt
