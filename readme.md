@@ -18,8 +18,8 @@ This project implements a convolutional neural network (CNN) using TensorFlow an
 1. Organize your training images in the 'train' directory and testing images in the 'test' directory.
 2. Configure the model parameters and file paths in defect_detection.py as needed.
 3. Run the training script to train the CNN model:
-```bash
-python defect_detection.py
+    ```bash
+      python defect_detection.py
 4. Evaluate the model's performance and accuracy on the test set.
 5. Use the trained model to make predictions on new images or integrate it into a production system for defect detection.
 
